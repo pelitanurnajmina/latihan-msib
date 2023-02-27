@@ -1,1 +1,6 @@
 ini test, file pertama
+
+ini ada perubahan baru,
+1.
+2.
+3.
